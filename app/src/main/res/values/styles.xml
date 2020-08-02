@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.MyApp.TextView.Body" parent="Widget.MaterialComponents.TextView">
+        <item name="android:lineSpacingExtra">@dimen/line_spacing</item>
+    </style>
+</resources>

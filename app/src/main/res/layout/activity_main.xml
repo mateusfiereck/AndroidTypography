@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_appearance_headline1"
+            android:textAppearance="?attr/textAppearanceHeadline1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_appearance_headline2"
+            android:textAppearance="?attr/textAppearanceHeadline2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_appearance_headline3"
+            android:textAppearance="?attr/textAppearanceHeadline3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_appearance_headline4"
+            android:textAppearance="?attr/textAppearanceHeadline4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_appearance_headline5"
+            android:textAppearance="?attr/textAppearanceHeadline5" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_appearance_headline6"
+            android:textAppearance="?attr/textAppearanceHeadline6" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_appearance_subtitle1"
+            android:textAppearance="?attr/textAppearanceSubtitle1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_appearance_subtitle2"
+            android:textAppearance="?attr/textAppearanceSubtitle2" />
+
+        <TextView
+            style="@style/Widget.MyApp.TextView.Body"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_appearance_body1"
+            android:textAppearance="?attr/textAppearanceBody1" />
+
+        <TextView
+            style="@style/Widget.MyApp.TextView.Body"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_appearance_body2"
+            android:textAppearance="?attr/textAppearanceBody2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_appearance_button"
+            android:textAppearance="?attr/textAppearanceButton" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_appearance_caption"
+            android:textAppearance="?attr/textAppearanceCaption" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_appearance_button"
+            android:textAppearance="?attr/textAppearanceCaption" />
+    </LinearLayout>
+</ScrollView>

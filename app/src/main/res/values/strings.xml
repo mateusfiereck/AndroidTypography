@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Android Typography</string>
+
+    <string name="text_appearance_headline1">H1</string>
+    <string name="text_appearance_headline2">H2</string>
+    <string name="text_appearance_headline3">H3</string>
+    <string name="text_appearance_headline4">H4</string>
+    <string name="text_appearance_headline5">H5</string>
+    <string name="text_appearance_headline6">H6</string>
+
+    <string name="text_appearance_subtitle1">Subtitle 1</string>
+    <string name="text_appearance_subtitle2">Subtitle 2</string>
+
+    <string name="text_appearance_body1">Body 1</string>
+    <string name="text_appearance_body2">Body 2</string>
+
+    <string name="text_appearance_button">Button</string>
+    <string name="text_appearance_caption">Caption</string>
+    <string name="text_appearance_overline">Overline</string>
+</resources>
